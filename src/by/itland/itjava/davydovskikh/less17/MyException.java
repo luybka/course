@@ -1,4 +1,4 @@
-package by.itland.itjava.davydovskikh.lesson17;
+package by.itland.itjava.davydovskikh.less17;
 
 public class MyException extends Exception {
 
